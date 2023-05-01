@@ -44,3 +44,7 @@ body::before {
   box-sizing: border-box;
   transform: translateX(-50%);
 }
+
+#facebook-logo {
+  height: 20px;
+}
