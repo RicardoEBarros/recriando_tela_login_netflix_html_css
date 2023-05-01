@@ -115,5 +115,14 @@ body::before {
   height: 25px;
 }
 
+.help a {
+  text-decoration: none;
+  color: #737373;
+}
+
+.help a:hover {
+  text-decoration: underline;
+}
+
 
 
