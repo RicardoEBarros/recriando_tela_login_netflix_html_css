@@ -66,3 +66,12 @@ body::before {
   box-sizing: border-box;
   outline: none;
 }
+
+.login_body input:hover {
+  background-color: #444;
+}
+
+.input_box > div {
+  margin-bottom: 25px !important;
+}
+
