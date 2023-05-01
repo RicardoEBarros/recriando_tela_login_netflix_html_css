@@ -25,22 +25,3 @@ body::before {
   height: 45px;
   width: 167px;
 }
-
-.header {
-  padding: 20px 50px;
-  position: relative;
-  z-index: 10;
-}
-
-.login_body {
-  padding: 60px;
-  z-index: 90;
-  position: relative;
-  max-width: 450px;
-  height: 500px;
-  margin-left: 50%;
-  background-color: rgb(0, 0, 0, 0.75);
-  border-radius: 10px;
-  box-sizing: border-box;
-  transform: translateX(-50%);
-}
